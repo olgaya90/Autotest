@@ -1,0 +1,11 @@
+url: https://test-stand.gb.ru/gateway/login
+address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+login: olya
+pswd: cb1568ikjh
+
+
+title: New_title
+description: New_description_for_test_HW
+content: content_content_content_content_content_content_content_content_content_content_content_content_
